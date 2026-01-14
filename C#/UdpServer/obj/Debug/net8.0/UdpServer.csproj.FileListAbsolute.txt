@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\bin\Debug\net8.0\UdpServer.exe
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\bin\Debug\net8.0\UdpServer.deps.json
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\bin\Debug\net8.0\UdpServer.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\bin\Debug\net8.0\UdpServer.dll
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\bin\Debug\net8.0\UdpServer.pdb
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\UdpServer.sourcelink.json
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\UdpServer.dll
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\refint\UdpServer.dll
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\UdpServer.pdb
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\UdpServer.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpServer\obj\Debug\net8.0\ref\UdpServer.dll

@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\bin\Debug\net8.0\UdpClient.exe
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\bin\Debug\net8.0\UdpClient.deps.json
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\bin\Debug\net8.0\UdpClient.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\bin\Debug\net8.0\UdpClient.dll
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\bin\Debug\net8.0\UdpClient.pdb
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\UdpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\UdpClient.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\UdpClient.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\UdpClient.sourcelink.json
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\UdpClient.dll
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\refint\UdpClient.dll
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\UdpClient.pdb
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\UdpClient.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Máy tính\Elearning_2\C#\UdpClient\obj\Debug\net8.0\ref\UdpClient.dll
